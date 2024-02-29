@@ -37,7 +37,7 @@
 }
 
 .header__links-list-item:first-child {
-    margin-left: -4px;
+    margin-left: 0;
 }
 
 .header__links-list-item_no-bullit {
